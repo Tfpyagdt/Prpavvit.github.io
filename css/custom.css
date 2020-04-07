@@ -3,11 +3,11 @@ body {
   font-family: Roboto, serif;
   font-size: 15px;
   line-height: 21px;
- 
+ padding-left: 10px; 
 }
 h3 {
  
-  font-family: Domine, Lora, sans-serif;
+  font-family: Roboto, Lora, sans-serif;
   font-weight: bold;
   margin: 30px 0 10px 0;}
 
